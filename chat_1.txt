@@ -1,0 +1,4 @@
+You: hi how are you
+AI: Hello! I'm an AI assistant, so I don't have feelings, but I'm here to help you. How can I assist you today?
+
+
