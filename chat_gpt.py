@@ -7,7 +7,7 @@ from tkinter.ttk import Combobox, Scrollbar
 from tkinter import Text
 
 # Initialize OpenAI API
-openai.api_key = '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'
+openai.api_key = ''
 
 def get_model_response(model, question):
     try:
